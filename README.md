@@ -1,1 +1,1 @@
-# Transcript analysis from The Office TV series. Data exploration and preprocessing: cleaning, tokenization, lemmatization. Logistic regression model on matching phrases with character who actually said it.
+# Transcript analysis from The Office TV series. Data exploration and preprocessing: cleaning, tokenization, lemmatization. Logistic regression model that matches phrases with character who actually said it.
